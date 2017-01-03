@@ -1,7 +1,8 @@
 docker-openwrt-buildroot
 ========================
 [![License: MIT](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/noonien/docker-openwrt-buildroot/blob/master/LICENSE)
-
+[![](https://images.microbadger.com/badges/image/mbravo/docker-openwrt-buildroot.svg)](https://microbadger.com/images/mbravo/docker-openwrt-buildroot "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/mbravo/docker-openwrt-buildroot.svg)](https://microbadger.com/images/mbravo/docker-openwrt-buildroot "Get your own version badge on microbadger.com")
 
 This is a docker container for the [OpenWRT](https://openwrt.org/)
 [buildroot](http://wiki.openwrt.org/doc/howto/buildroot.exigence).
